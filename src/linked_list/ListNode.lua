@@ -1,4 +1,4 @@
-----@class ListNode 链表节点
+---@class ListNode 链表节点
 local ListNode = class()
 
 ---@param data any 节点数据

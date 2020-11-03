@@ -1,4 +1,4 @@
--local ListNode = require("linked_list.ListNode")
+local ListNode = require("linked_list.ListNode")
 ---@class LinkedList 单链表
 local LinkedList = class()
 
